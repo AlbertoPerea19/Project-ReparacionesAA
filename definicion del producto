@@ -1,4 +1,25 @@
 OMAR ARIAS:
 Objetivo del producto:
+El objetivo del producto, es mejorar el servicio de trato al cliente en la empresa Reparaciones AA.  Se busca inovar por medio de 3 cuestiones principales:
+-Almacenamiento de datos relacionando clientes con controles.
+-Evidencia fotográfica de la reparación para constatar la calidad y la realización de un servicio, así como para futura identificación.
+-Implementación de un servicio.
+**-Tener un sistema grande y escalable de manejo de datos de clientes y productos en servicios.** //ESTO ES SUPER IMPORTANTE HACER ENFASIS//
 Elementos donde habrá inovación:
-Originalidad
+La inovación vendrá, más que del sistema de cotización, en el sistema de seguimiento/rastreo de una orden (automatizado)
+Además de esto, se inovará en el aspecto de tener una clase donde se encuentren todos los controles, estando relacionada con la clase de clientes.
+Esto nos permitirá acceder tanto a todos los controles, como también simplemente accesar a un cliente y ver los controles asociados.
+Además, la inovación vendrá también de parte de la evidencia fotográfica que se almacenará, sirviendo para mostrar la reparación y pieza relacionada, y también
+para servir como identificador del control mismo.
+Originalidad:
+Se envió mensaje pidiendo cotizaciones al Messenger de distintas páginas de reparaciones de articulos tales como:
+---------------
+https://www.facebook.com/Game.Zone.Original/
+https://www.facebook.com/BananaGamingStore/
+https://www.facebook.com/BIT-FIX-106500751181104
+-----------------
+Ninguna de las anteriormente mencionadas cuenta siquiera con un sistema de respuestas.
+Solo una página y 2 reparadores independientes manejan un sistema de "garantía":
+Colocan una pegatina encima de un tornillo, básicamente como cualquier calcomanía de sello de seguridad.
+La originalidad del proyecto radica en convertir a Reparaciones AA en la única empresa con una
+base de datos/listado de los controles reparados, además, contando con la fecha y demás indicadores importantes.
