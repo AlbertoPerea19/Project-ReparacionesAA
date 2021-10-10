@@ -2,7 +2,7 @@
 
 ![REPARACIONESAA](https://user-images.githubusercontent.com/73042458/136714479-76a21605-f7ae-4df2-98d5-af83a01c652c.jpg)
 
-## DESCRICIÓN  :clipboard:
+## DESCRIPCIÓN  :clipboard:
 
 
 
@@ -18,7 +18,7 @@
 ## ENLACES  :paperclip:
 
 * #### Descripción
-* #### Proposito
+* #### Propósito
 * #### Requerimientos
 * #### Diagramas
 * #### Roles
