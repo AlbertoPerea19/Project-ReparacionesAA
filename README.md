@@ -1,4 +1,4 @@
-## PROJECT-REPARACIONES-AA :wrench:
+## :video_game: PROJECT-REPARACIONES-AA :wrench:
 
 ![REPARACIONESAA](https://user-images.githubusercontent.com/73042458/136714479-76a21605-f7ae-4df2-98d5-af83a01c652c.jpg)
 
@@ -15,7 +15,7 @@
 * #### Omar Arias Rocha - [Omar Arias](https://github.com/omararias)
 
 
-## ENLACES
+## ENLACES  :paperclip:
 
 * #### Descripción
 * #### Proposito
