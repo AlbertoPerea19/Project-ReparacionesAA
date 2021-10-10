@@ -22,3 +22,4 @@
 * #### Requerimientos
 * #### Diagramas
 * #### Roles
+* #### Cronograma
