@@ -1,1 +1,11 @@
+REQUERIMIENTOS FUNCIONALES
 
+-El sistema registrará el num de teléfono y el nombre del cliente
+-El sistema proporcionará informes sobre el artículo a reparar.
+-El sistema proporcionará una cotización.
+
+REQUERIMIENTOS NO FUNCIONALES
+
+-La respuesta del sistema se adaptará en una fecha y horario establecido.
+-El sistema debe asegurar que el nombre y número de teléfono del usuario esté protegido.
+-El sistema realizará un seguimiento del artículo a reparar
