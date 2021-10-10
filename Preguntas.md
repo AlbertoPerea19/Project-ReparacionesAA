@@ -14,7 +14,7 @@
 
 ### Preguntas opción 2
 
--  ¿Qué se quiere hacer? O ¿Qué problema se va ha resolver?
+-  ¿Qué se quiere hacer? O ¿Qué problema se va a resolver?
 - ¿Por qué se quiere hacer?
 - ¿Para qué se quiere hacer?
 - ¿A quiénes va dirigido?
@@ -31,7 +31,7 @@
 1. ¿Por qué es importante este proyecto?
 2. ¿Cuál es el problema que está tratando de resolver?
 3. ¿Qué espera que el proyecto logre? ¿Cuál ve como el objetivo de alto nivel?
-4. ¿Ya se han documentado los requisitos del proyecto? ¿Si es así, donde? ¿Por quién?
+4. ¿Ya se han documentado los requisitos del proyecto? ¿Si es así, dónde? ¿Por quién?
 5. ¿Cuál es la solución que se ha acordado, en su caso? ¿Qué análisis se realizó sobre las soluciones propuestas?
 6. ¿Cuáles son los criterios de éxito del proyecto? 
 7. ¿Cómo se relaciona este proyecto con la estrategia de la empresa?
