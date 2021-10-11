@@ -1,12 +1,27 @@
-OMAR ARIAS:
+ENGLISH:
+PRODUCT OBJECTIVE:
+
+The primary objective is to upgrade the customer's experience of
+
+
+
+
+ESPANOL:
+
 Objetivo del producto:
+
 El objetivo del producto, es mejorar el servicio de trato al cliente en la empresa Reparaciones AA.  Se busca inovar por medio de 3 cuestiones principales:
 -Almacenamiento de datos relacionando clientes con controles.
+
 -Evidencia fotográfica de la reparación para constatar la calidad y la realización de un servicio, así como para futura identificación.
+
 -Implementación de un servicio.
+
 **-Tener un sistema grande y escalable de manejo de datos de clientes y productos en servicios.** //ESTO ES SUPER IMPORTANTE HACER ENFASIS//
+
 Elementos donde habrá inovación:
-La inovación vendrá, más que del sistema de cotización, en el sistema de seguimiento/rastreo de una orden (automatizado)
+
+La inovación vendrá, más que del sistema de cotización, en el sistema de seguimiento/rastreo de una orden (automatizado).
 Además de esto, se inovará en el aspecto de tener una clase donde se encuentren todos los controles, estando relacionada con la clase de clientes.
 Esto nos permitirá acceder tanto a todos los controles, como también simplemente accesar a un cliente y ver los controles asociados.
 Además, la inovación vendrá también de parte de la evidencia fotográfica que se almacenará, sirviendo para mostrar la reparación y pieza relacionada, y también
