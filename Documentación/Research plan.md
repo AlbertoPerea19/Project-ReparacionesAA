@@ -21,9 +21,8 @@ Without a doubt, if you will leave your control in the hands of someone, we are 
 
 The company provides these services:
 
+![2021-10-10 (11)](https://user-images.githubusercontent.com/74436161/136836183-bf24c296-0c1b-4dd6-8092-252afa22d999.png)
 
-
-![image-20211010233649917](C:\Users\ruthb\AppData\Roaming\Typora\typora-user-images\image-20211010233649917.png)
 
 **Cambio de capuchones Joystick**
 
