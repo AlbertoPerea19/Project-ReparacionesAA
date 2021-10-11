@@ -2,12 +2,12 @@
 
 ![REPARACIONESAA](https://user-images.githubusercontent.com/73042458/136714479-76a21605-f7ae-4df2-98d5-af83a01c652c.jpg)
 
-## DESCRIPCIÓN  :clipboard:
+## DESCRIPTION  :clipboard:
 
 
 
 
-## COLABORADORES  :busts_in_silhouette:
+## TEAM  :busts_in_silhouette:
 
 * #### Ruth Betzabe Castro Acosta - [Ruth Castro](https://github.com/Ruthbcastro)
 * #### Enrique Alejandro Chim Mex - [Enrique325](https://github.com/Enrique325)
@@ -15,12 +15,12 @@
 * #### Omar Arias Rocha - [Omar Arias](https://github.com/omararias)
 
 
-## ENLACES  :paperclip:
+## INDEX  :paperclip:
 
-* #### Descripción
-* #### Propósito
-* #### Requerimientos
-* #### Diagramas
+* #### Description
+* #### Objetive
+* #### Requirements
+* ####  Use cases diagram and Class diagram
 * #### Roles
-* #### Cronograma
+* #### Schudule
 * #### Video
