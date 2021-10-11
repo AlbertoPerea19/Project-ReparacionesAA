@@ -4,7 +4,7 @@
 
 ### *Activity Calendar*
 
-<img src="C:\Users\betoh\OneDrive\Imágenes\Otros\calendar.png" alt="calendar" style="zoom:120%;" />
+![calendar](https://user-images.githubusercontent.com/78316967/136773159-80683ad4-ab75-40f4-9699-1c09e6dbb0c2.png)
 
 ------
 
