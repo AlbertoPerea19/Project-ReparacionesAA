@@ -5,7 +5,7 @@
 
 ## DESCRIPTION  :clipboard:
 
-
+"We are a company dedicated to repairing and maintaining Xbox One controllers at a fair price. Without a doubt, if you will leave your control in the hands of someone, we are the best option."
 
 
 ## TEAM  :busts_in_silhouette:
