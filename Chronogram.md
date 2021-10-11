@@ -1,0 +1,20 @@
+| Tasks                                                        | Responsible  | Start date | End date | Duration (days) | Status    | Description                                                  |
+| ------------------------------------------------------------ | ------------ | ---------- | -------- | --------------- | --------- | ------------------------------------------------------------ |
+| Hold a kickoff meeting                                       | Rafael Perea | 09/13/21   | 09/17/21 | 4               | Completed | The kickoff meeting is a chance to bring all stakeholders together, cast a vision for the project that everyone can get behind, and an opportunity to make introductions and establish good working relationships. |
+| Define the Main Goal of the Project                          | Rafael Perea | 09/17/21   | 09/23/21 | 6               | Completed | Know why the project is being undertaken, how this objective will impact all project stakeholders, and conduct research to confirm why the objective is worth pursuing. |
+| Get agreement on the project                                 | Enrique Chim | 09/21/21   | 09/24/21 | 3               | Completed | Review the project with senior management(Cambranes) and explain why the activities are proceeding the way they are (showing the project plan). |
+| Make modifications to the feedback from the past meeting *(optional)* | Omar Arias   | 09/24/21   | 09/28/21 | 4               | Completed |                                                              |
+| Make a class diagram and a use case diagram                  | Ruth Castro  | 09/27/21   | 10/01/21 | 4               | Completed |                                                              |
+| Requisitos de hardware                                       |              |            |          |                 |           |                                                              |
+| Plan final de recursos                                       |              |            |          |                 |           |                                                              |
+| Personal                                                     |              |            |          |                 |           |                                                              |
+| Requisitos técnicos                                          |              |            |          |                 |           |                                                              |
+| Desarrollo de base de datos                                  |              |            |          |                 |           |                                                              |
+| Desarrollo API                                               |              |            |          |                 |           |                                                              |
+| Interfaz de usuario del cliente                              |              |            |          |                 |           |                                                              |
+| Testing                                                      |              |            |          |                 |           |                                                              |
+| Prueba                                                       |              |            |          |                 |           |                                                              |
+| Configuración del hadware                                    |              |            |          |                 |           |                                                              |
+| Prueba del sistema                                           |              |            |          |                 |           |                                                              |
+| Lanzamiento                                                  |              |            |          |                 |           |                                                              |
+
