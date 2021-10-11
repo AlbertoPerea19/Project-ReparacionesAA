@@ -1,6 +1,7 @@
 ## :video_game: PROJECT-REPARACIONES-AA :wrench:
 
-![REPARACIONESAA](https://user-images.githubusercontent.com/73042458/136714479-76a21605-f7ae-4df2-98d5-af83a01c652c.jpg)
+![REPARACIONESAA](https://scontent.fmid2-1.fna.fbcdn.net/v/t1.6435-9/104310703_106618751098537_5538567549555323826_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=-jafejqRrjcAX-X9TXO&tn=DH0IROnrMxV2hWm_&_nc_ht=scontent.fmid2-1.fna&oh=7fc496bc3885c930a0e882c3aa3d46a4&oe=61895C0C)
+
 
 ## DESCRIPTION  :clipboard:
 
