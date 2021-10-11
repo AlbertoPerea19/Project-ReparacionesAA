@@ -22,5 +22,5 @@
 * #### Requirements
 * ####  Use cases diagram and Class diagram
 * #### Roles
-* #### Schudule
+* #### Schedule
 * #### Video
