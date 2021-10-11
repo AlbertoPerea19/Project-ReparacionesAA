@@ -24,41 +24,41 @@ The company provides these services:
 ![2021-10-10 (11)](https://user-images.githubusercontent.com/74436161/136836183-bf24c296-0c1b-4dd6-8092-252afa22d999.png)
 
 
-**Cambio de capuchones Joystick**
+**Joystick cap replacement**
 
-30 minutos · Precio variable
+30 minutes - Variable price
 
-Se cambian las gomitas de los joysticks por unos completamente nuevos como se ve en la imagen
+The joystick caps are replaced with brand new ones as shown in the image.
 
-<img src="C:\Users\ruthb\AppData\Roaming\Typora\typora-user-images\image-20211011023400911.png" alt="image-20211011023400911" style="zoom:50%;" />
-
-**Cambio de gomas (botones)**
-
-45 minutos como mínimo · A partir de $100
-
-Se hace cuando los botones se sienten hundidos o no reaccionan bien. Se remueven las gomas viejas y se instala el repuesto.
-
-![image-20211011023731911](C:\Users\ruthb\AppData\Roaming\Typora\typora-user-images\image-20211011023731911.png)
-
-**Cambio de joystick**
-
-1 hora 15 minutos como mínimo · A partir de $120
-
-Reparación utilizada cuando tu palanca se mueve sin que la estés tocando. Cambio de la palanca del joystick desoldando la defectuosa y poniendo una nueva.
-
-![image-20211011023859833](C:\Users\ruthb\AppData\Roaming\Typora\typora-user-images\image-20211011023859833.png)
-
-**Cambio de boton LB/RB**
-
-45 minutos como mínimo · A partir de $120
-
-Se cambia el boton desoldando el defectuoso y poniendo uno nuevo
+![image-20211011023302134](https://user-images.githubusercontent.com/74436161/136836857-ed98e44f-23bc-4a9a-81eb-6d8c65663a7b.png)
 
 
+**Replacement of rubber bands (buttons)**
 
-![image-20211011024532148](C:\Users\ruthb\AppData\Roaming\Typora\typora-user-images\image-20211011024532148.png)
+45 minutes minimum - Starting at $100
+
+This is done when the buttons feel sunken or do not react well. The old rubber is removed and the replacement is installed.
+
+![image-20211011023653632](https://user-images.githubusercontent.com/74436161/136836958-2ebe9ba4-67f5-4ee9-b535-d086fa990030.png)
 
 
+**Joystick replacement**
+
+1 hour 15 minutes minimum - Starting at $120
+
+Repair used when your joystick moves without you touching it. Replacement of the joystick lever by desoldering the defective one and putting a new one.
+
+![image-20211011023820481](https://user-images.githubusercontent.com/74436161/136837015-8ea22bfe-3545-49a7-9426-2098fe5cb2fd.png)
+
+
+**LB/RB button replacement**
+
+45 minutes minimum - Starting from $120
+
+Change the button by desoldering the defective one and inserting a new one.
+
+
+![image-20211011024428901](https://user-images.githubusercontent.com/74436161/136837063-01c56ee4-9baf-44f9-8a44-e305b5a58348.png)
 
 
 
