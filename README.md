@@ -20,7 +20,7 @@
 
 * #### Description
 * #### Objetive
-* #### Requirements
+* #### [Requirements](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/REQUIREMENTS.md)
 * ####  Use cases diagram and Class diagram
 * #### Roles
 * #### Schedule
