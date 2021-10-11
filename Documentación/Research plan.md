@@ -259,13 +259,9 @@ Gather critical analytics from your WhatsApp campaigns based on message delivery
 Prequalify/screen users with your bots before they speak to humans.
 
 [<img src="https://assets-global.website-files.com/5e1c4fb5db4d5243c0021d34/5f3a71d406898d026b9bf502_Channels-07.png" alt="channels icon" style="zoom:50%;" />All channels in a single interface
-](https://landbot.io/lp/whatsapp-business-chatbots-bots-1?utm_source=google_ads&utm_medium=cpc&utm_term=whatsapp business&utm_campaign=LB_GS_NB_Whatsapp_Business_SCA&gclid=Cj0KCQjwwY-LBhD6ARIsACvT72P0R3mjdqJh506cHJrFoMs91tdqNKJUpk7zhjdVRQ9JhVoMr3unMHkaAlPWEALw_wcB#w-tabs-0-data-w-pane-0)[<img src="https://assets-global.website-files.com/5e1c4fb5db4d5243c0021d34/5f3a62f8bed43fdd7ff1037c_Iconos_chat_manager-01.png" alt="context icon" style="zoom:50%;" />Faster service through context
-](https://landbot.io/lp/whatsapp-business-chatbots-bots-1?utm_source=google_ads&utm_medium=cpc&utm_term=whatsapp business&utm_campaign=LB_GS_NB_Whatsapp_Business_SCA&gclid=Cj0KCQjwwY-LBhD6ARIsACvT72P0R3mjdqJh506cHJrFoMs91tdqNKJUpk7zhjdVRQ9JhVoMr3unMHkaAlPWEALw_wcB#w-tabs-0-data-w-pane-1)[<img src="https://assets-global.website-files.com/5e1c4fb5db4d5243c0021d34/5f3a632aa570656070e5a4fa_Iconos_chat_manager-02.png" alt="queries icon" style="zoom:50%;" />Quick replies for common queries
-](https://landbot.io/lp/whatsapp-business-chatbots-bots-1?utm_source=google_ads&utm_medium=cpc&utm_term=whatsapp business&utm_campaign=LB_GS_NB_Whatsapp_Business_SCA&gclid=Cj0KCQjwwY-LBhD6ARIsACvT72P0R3mjdqJh506cHJrFoMs91tdqNKJUpk7zhjdVRQ9JhVoMr3unMHkaAlPWEALw_wcB#w-tabs-0-data-w-pane-2)
-
-
-
-[<img src="https://assets-global.website-files.com/5e1c4fb5db4d5243c0021d34/5f3a6339f2c58272857ff2b6_Iconos_chat_manager-06.png" alt="multiagent icon" style="zoom:50%;" />Multi-agent support](https://landbot.io/lp/whatsapp-business-chatbots-bots-1?utm_source=google_ads&utm_medium=cpc&utm_term=whatsapp business&utm_campaign=LB_GS_NB_Whatsapp_Business_SCA&gclid=Cj0KCQjwwY-LBhD6ARIsACvT72P0R3mjdqJh506cHJrFoMs91tdqNKJUpk7zhjdVRQ9JhVoMr3unMHkaAlPWEALw_wcB#w-tabs-0-data-w-pane-3)
+[<img src="https://assets-global.website-files.com/5e1c4fb5db4d5243c0021d34/5f3a62f8bed43fdd7ff1037c_Iconos_chat_manager-01.png" alt="context icon" style="zoom:50%;" />Faster service through context
+[<img src="https://assets-global.website-files.com/5e1c4fb5db4d5243c0021d34/5f3a632aa570656070e5a4fa_Iconos_chat_manager-02.png" alt="queries icon" style="zoom:50%;" />Quick replies for common queries
+[<img src="https://assets-global.website-files.com/5e1c4fb5db4d5243c0021d34/5f3a6339f2c58272857ff2b6_Iconos_chat_manager-06.png" alt="multiagent icon" style="zoom:50%;" />Multi-agent support]
 
 
 
@@ -401,7 +397,7 @@ Anticipate your customer’s future needs. Track customer satisfaction, identify
 
 
 
-Refrences
+References
 
 https://www.ibm.com/topics/data-storage
 
