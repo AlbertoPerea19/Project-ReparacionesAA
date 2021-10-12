@@ -1,4 +1,4 @@
-# 				**Workprocess**
+# 				**Teamwork**
 
 - **Defined roles (responsibilities)**
 
