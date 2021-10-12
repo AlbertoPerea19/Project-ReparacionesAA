@@ -54,7 +54,7 @@ Here we simplify the process of working with other people, as it facilitates col
 
 The planning of our project is based on the chronogram we made earlier to accomplish all the tasks, research and everything involved in the project to be completed and delivered on time.To learn more about the schedule:
 
-https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/21239a4dd190618f2f136152b25417ca9dbce28e/Documentation/Calendar%20and%20chronogram.md
+https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Calendar%20and%20chronogram.md
 
 ******There may be changes in dates due to holidays or changes in assignment deadlines******
 
