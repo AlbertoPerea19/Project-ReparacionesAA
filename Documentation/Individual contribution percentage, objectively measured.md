@@ -51,7 +51,7 @@
 | Definition of objectives         | 3          |
 | Project definition               | 3          |
 | Final PowerPoint presentation    | 10         |
-| Class diagram and drafts 4       | 4          |
+| Class diagram and drafts         | 4          |
 | Exposure                         | 5          |
 
 
