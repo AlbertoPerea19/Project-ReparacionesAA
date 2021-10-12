@@ -10,7 +10,8 @@
 
 
 
-### End-use cases
+### Final use cases
+![Casos de uso drawio (1)](https://user-images.githubusercontent.com/73042458/136896631-019f5097-5720-4379-914c-504d283f47aa.png)
 
 
 
