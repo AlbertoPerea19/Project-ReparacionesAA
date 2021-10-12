@@ -1,4 +1,4 @@
-# USE CASES DIAGRAM
+# USE CASES DIAGRAM 
 
 ### The first use case
 ![IMG-20210924-WA0028](https://user-images.githubusercontent.com/73042458/136845307-6528d780-07ff-47bd-8329-a39d8ed6a3aa.jpg)
