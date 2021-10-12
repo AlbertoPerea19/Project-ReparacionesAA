@@ -11,8 +11,9 @@ This product is expected to be implemented on the enterprise's WhatsApp. The pro
 
 -Name
 
--Date of the reparation.
------------------
+-Date of reparation
+
+
 In reality, this project solves a lot of problematics that are involved on the reparations businesses, besides, it adds value to the attention brought to the client
 not only solving actual problematics but by giving a plus to the service provided, this, by having a register of all the devices repaired and by
 showing them actual evidence of the QUALITY MATERIALS used for the reparation and the good quality and expertise work.
