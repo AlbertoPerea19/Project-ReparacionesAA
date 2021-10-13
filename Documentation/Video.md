@@ -1,4 +1,4 @@
-#Script
+# Script
 
 **Rafael**: Good morning, ladies and gentlemen. On behalf of 'Facultad de matemáticas', I would like to welcome you here today. 
 For those of you who don’t know me yet, my name is 'Rafael Perea' and I’m responsible for this project.
