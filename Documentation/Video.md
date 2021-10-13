@@ -12,6 +12,9 @@ If we talk about teamwork we work through a log of meetings with scrum model usi
 
 **Enrique**:
 
-**Omar**:
+**Omar**: And that was all,  in conclusion our project has a very big aspiration, we are looking forward into making businesses become the number one option by providing trustability and amability to our clients.
+We are excited to launch the new features we just talked to you about, always having in mind what the enterprise needs.
+Feel free to visit our page to know more about this project. 
+Have a good day!
 
 **Link**: https://youtu.be/FG_28NSCIQE.
