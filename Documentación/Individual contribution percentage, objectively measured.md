@@ -16,7 +16,7 @@ We use the self-assessment method to assign scores to each task done by each tea
 | Journals               | 2.5        |
 | Exposure               | 5          |
 
-
+Total=  25
 
 
 
@@ -31,6 +31,8 @@ We use the self-assessment method to assign scores to each task done by each tea
 | Requirements and drafts         | 14         |
 | Exposure                        | 5          |
 
+Total =  25
+
 **Ruth**
 
 | Task                               | Puntations |
@@ -42,7 +44,7 @@ We use the self-assessment method to assign scores to each task done by each tea
 | Exposure                           | 5          |
 | Use cases and drafts               | 4          |
 
-
+Total =  25
 
 **Omar**
 
@@ -54,5 +56,5 @@ We use the self-assessment method to assign scores to each task done by each tea
 | Class diagram and drafts         | 4          |
 | Exposure                         | 5          |
 
-
+Total =  25
 
