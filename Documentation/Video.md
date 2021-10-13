@@ -18,4 +18,4 @@ In addition to this, we created a chronogram where each of the scheduled tasks i
 
 **Omar**:
 
-**Link**: [www.youtube.com]().
+**Link**: [https://youtu.be/FG_28NSCIQE](https://youtu.be/FG_28NSCIQE).
