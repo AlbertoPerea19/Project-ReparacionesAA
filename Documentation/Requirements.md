@@ -2,9 +2,11 @@
 
 For the requirements, we agreed with the team to discuss what the owner (Omar Arias) wants.
 
-They are as follows:
+## Users
+-The user will be able to request a quote
+-The user will be able to request a follow-up of his control
 
-
+## System
 
 ## 🔹FUNCTIONAL REQUIREMENTS
 
