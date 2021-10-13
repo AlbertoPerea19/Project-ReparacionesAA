@@ -33,13 +33,13 @@ The product that will be developed, will be, in essence, an automatization of th
     
     * #### [Individual contribution percentage...](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Individual%20contribution%20percentage%2C%20objectively%20measured.md)
     
-    * #### [Requirements](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/REQUIREMENTS.md)
+    * #### [Requirements](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Requirements.md)
     
     * #### [Research plan](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Research%20plan.md)
     
-    * #### [Use cases and diagrams](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Use%20cases%20and%20diagrams.md)
+    * #### [Use cases and diagrams](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Use%20cases%20diagram%20and%20Class%20diagram.md)
     
     * #### [Diary](https://github.com/AlbertoPerea19/Project-ReparacionesAA/tree/main/Documentation/Diary)
     
-    * #### [Video](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Video.md)
+    * #### [Video and Script](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Video.md)
 
