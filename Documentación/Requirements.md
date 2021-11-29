@@ -38,4 +38,3 @@ For the requirements, we agreed with the team to discuss what the owner (Omar Ar
 |     NRF002      |                           SECURITY                           |
 | :-------------: | :----------------------------------------------------------: |
 | **Description** | **The system must ensure the protection of the user´s name and telephone number** |
-
