@@ -1,6 +1,6 @@
 ## :video_game: PROJECT-ASTRO :wrench:
 
-![https://imgur.com/s1A6OJs]()
+![](https://i.imgur.com/s1A6OJs.jpg)
 
 
 ## DESCRIPTION  :clipboard:
