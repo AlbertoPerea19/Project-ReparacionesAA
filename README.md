@@ -1,6 +1,6 @@
 ## :video_game: PROJECT-ASTRO :wrench:
 
-![reparacionesAA](C:\Users\prafa\OneDrive\Documentos\Beto\reparacionesAA.jpg)
+![https://imgur.com/s1A6OJs]()
 
 
 ## DESCRIPTION  :clipboard:
