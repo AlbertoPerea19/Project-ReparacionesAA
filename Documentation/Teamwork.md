@@ -19,7 +19,7 @@
   We work through a log of meetings in the Teams platform clarifying details in WhatsApp, where we divide the work and everyone scores their performance based on hours of work, approximately 1 hour per point. 
   As we move through the project everyone reviews everyone's information to be in agreement and make sure we are working correctly. Although we have assigned activities and roles to each member, the assigned tasks may vary because we try to have flexibility and that we all develop in all areas to have better performance.
 
-  To see more go to: https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/76205c6c99fe8d4ed7e1855ae275119327b5316c/Documentation/Work%20Process.mdo
+  To see more go to: https://github.com/AlbertoPerea19/Project-ReparacionesAA.git
 
   
 
