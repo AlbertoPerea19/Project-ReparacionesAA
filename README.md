@@ -37,7 +37,7 @@ The product that will be developed, will be, in essence, an automatization of th
     
     * #### [Research plan](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/Research%20plan.md)
     
-    * #### [Use cases and diagrams](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/use%20cases%20diagram%20and%20class%20diagram.md)
+    * #### [Use cases and diagrams](./Documentation/Use_cases.md)
     
     * #### [Diary](https://github.com/AlbertoPerea19/Project-ReparacionesAA/tree/2daEntrega/Documentation/Diary)
       
