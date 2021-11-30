@@ -4,17 +4,13 @@ We use the self-assessment method to assign scores to each task done by each tea
 
 **Rafael**
 
-| Tasks                  | Puntuation |
-| ---------------------- | ---------- |
-| Calendars              | 2          |
-| Schedule               | 4          |
-| Workprocess            | 3          |
-| Repository creation    | 3          |
-| Draft use case diagram | 1.5        |
-| Draft use cases        | 2.5        |
-| Draft requirements     | 1.5        |
-| Journals               | 2.5        |
-| Exposure               | 5          |
+| Tasks                       | Puntuation |
+| --------------------------- | ---------- |
+| PowerPoint presentation     | 5          |
+| Database                    | 5          |
+| Upload bot to Heroku        | 5          |
+| Update files (2nd delivery) | 5          |
+| Create classes              | 5          |
 
 Total= 25
 
