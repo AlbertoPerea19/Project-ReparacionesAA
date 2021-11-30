@@ -4,7 +4,7 @@
 
 
 
-# **USE CASES** 
+# **USE CASES AND DIAGRAM CLASS** 
 
 **FROM THE SYSTEM**
 
