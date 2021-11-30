@@ -45,9 +45,9 @@ Total= 25
 **Omar**
 
 | Task | Puntations |
-| ---- | ---------- |
-|      |            |
-|      |            |
+| Bitacores | 5 |
+|   Correction of some diagrams   |       3     |
+|Code corrections|   2        |
 |      |            |
 
 Total= 25
