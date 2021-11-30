@@ -9,10 +9,13 @@ Right now, we have our database and the bot already uploaded to the cloud, our n
 
 **Rafael**: No caption
 
-**Ruth**: No caption
+**Ruth**: Ok, let's talk about what's next. We look forward to fine-tuning the details of our project very soon.
+
+We developed our bot in javascript, but this language is not a language that easily handles the object oriented part. So we are having problems to connect each class in place, because the whole system is developed based on the bot.on function that receives the text entered by the user and evaluates it in the algorithm built to give an answer either menu, quote or appointment schedule.
+So finally we will finish the bot classes and upload the database to the cloud.
 
 **Enrique**: No caption
 
 **Omar**: No caption
 
-**Link**: 
+**Link**: https://youtu.be/R0XfqEHQzfI
