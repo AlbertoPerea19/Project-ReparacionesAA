@@ -21,25 +21,25 @@ The product that will be developed, will be, in essence, an automatization of th
 ## INDEX  :paperclip:
 
  1. #### Documentation
-    * ####  [Description](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Description.md)
+    * ####  [Description](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/Description.md)
     
-    * #### [Objective](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Objectives%20and%20product%20definition.md)
+    * #### [Objective](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/Objectives%20and%20product%20definition.md)
     
-    * #### [Calendar and chronogram](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Calendar%20and%20chronogram.md)
+    * #### [Calendar and chronogram](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/Calendar%20and%20chronogram.md)
     
-    * #### [Work process](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Work%20Process.md)
+    * #### [Work process](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/Work%20Process.md)
     
-    * #### [Teamwork](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Teamwork.md)
+    * #### [Teamwork](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/Teamwork.md)
     
-    * #### [Individual contribution percentage...](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Individual%20contribution%20percentage%2C%20objectively%20measured.md)
+    * #### [Individual contribution percentage...](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/Individual%20contribution%20percentage%2C%20objectively%20measured.md)
     
-    * #### [Requirements](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Requirements%F0%9F%93%83.md)
+    * #### [Requirements](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/Requirements.md)
     
-    * #### [Research plan](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Research%20plan.md)
+    * #### [Research plan](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/Research%20plan.md)
     
-    * #### [Use cases and diagrams](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/use%20cases%20diagram%20and%20class%20diagram.md)
+    * #### [Use cases and diagrams](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/use%20cases%20diagram%20and%20class%20diagram.md)
     
-    * #### [Diary](https://github.com/AlbertoPerea19/Project-ReparacionesAA/tree/main/Documentation/Diary)
+    * #### [Diary](https://github.com/AlbertoPerea19/Project-ReparacionesAA/tree/2daEntrega/Documentation/Diary)
       
-    * #### [Video and Script](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Video.md)
+    * #### [Video and Script](https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/2daEntrega/Documentation/Video.md)
 

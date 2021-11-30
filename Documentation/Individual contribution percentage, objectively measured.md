@@ -18,14 +18,11 @@ Total= 25
 
 **Enrique**
 
-| Tasks                           | Puntations |
-| ------------------------------- | ---------- |
-| Draft Use Case Diagram          | 1          |
-| Class diagram and drafts        | 4          |
-| Contributions to the repository | 1          |
-| Exposure                        | 5          |
-| Requirements and drafts         | 14         |
-| Exposure                        | 5          |
+| Tasks | Puntations |
+| ----- | ---------- |
+|       |            |
+|       |            |
+|       |            |
 
 Total= 25
 
@@ -33,14 +30,11 @@ Total= 25
 
 **Ruth**
 
-| Task                               | Puntations |
-| ---------------------------------- | ---------- |
-| Use case diagram and drafts        | 3          |
-| Definition of required information | 7          |
-| Individual contribution percentage | 3          |
-| Workprocess                        | 3          |
-| Exposure                           | 5          |
-| Use cases and drafts               | 4          |
+| Task | Puntations |
+| ---- | ---------- |
+|      |            |
+|      |            |
+|      |            |
 
 Total= 25
 
@@ -50,13 +44,11 @@ Total= 25
 
 **Omar**
 
-| Task                          | Puntations |
-| ----------------------------- | ---------- |
-| Definition of objectives      | 3          |
-| Project definition            | 3          |
-| Final PowerPoint presentation | 10         |
-| Class diagram and drafts      | 4          |
-| Exposure                      | 5          |
+| Task | Puntations |
+| ---- | ---------- |
+|      |            |
+|      |            |
+|      |            |
 
 Total= 25
 
