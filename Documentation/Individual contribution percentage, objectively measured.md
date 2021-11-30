@@ -18,11 +18,14 @@ Total= 25
 
 **Enrique**
 
-| Tasks | Puntations |
+| Tasks                            | Puntations |
 | ----- | ---------- |
-|       |            |
-|       |            |
-|       |            |
+| Database                         |    5        |
+| Entity-Relationship Diagram     |       5     |
+| Java Code                        |       5     |
+| Repository                        |       5     |
+| Class Diagram                        |     5       |
+
 
 Total= 25
 
