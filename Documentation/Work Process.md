@@ -34,6 +34,12 @@ WhatsApp Messenger, or simply WhatsApp, is an American freeware, cross-platform 
 
 In this application is where we communicate the most, here we agree if we need to schedule an additional meeting or if there should be a modification of a task or to notify if a team member had an unforeseen event, etc.
 
+### Comunication: Telegram	
+
+Telegram is a multi-platform messaging service founded by Russian entrepreneur Pavel Durov. It first rolled out on iOS and Android in late 2013, and now has an estimated 550 million monthly users. Telegram’s user base tends to increase whenever a privacy scandal hits one of its larger competitors. 
+
+What makes Telegram unique is its focus on privacy, encryption, and an open-source API. There are countless unofficial clients to go along with the official Telegram apps and web interface. It also allows multiple devices to use the same account (verified by SMS), and multiple accounts on the same device.
+
 ### **Diagrams: Lucidchart**
 
 Lucidchart is a web-based diagramming tool that allows users to collaborate and work together in real time, creating flowcharts, website diagrams, UML designs, among many other types of diagrams. 
@@ -54,7 +60,7 @@ Here we simplify the process of working with other people, as it facilitates col
 
 The planning of our project is based on the chronogram we made earlier to accomplish all the tasks, research and everything involved in the project to be completed and delivered on time.To learn more about the schedule:
 
-https://github.com/AlbertoPerea19/Project-ReparacionesAA/blob/main/Documentation/Calendar%20and%20chronogram.md
+https://github.com/AlbertoPerea19/Project-ReparacionesAA.git
 
 ******There may be changes in dates due to holidays or changes in assignment deadlines******
 

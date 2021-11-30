@@ -1,13 +1,13 @@
 ## :video_game: PROJECT-ASTRO :wrench:
 
-![REPARACIONESAA](https://i.imgur.com/s1A6OJs.jpg)
+![](https://i.imgur.com/s1A6OJs.jpg)
 
 
 ## DESCRIPTION  :clipboard:
 
 "We are a company dedicated to repairing and maintaining Xbox One controllers at a fair price. Without a doubt, if you will leave your control in the hands of someone, we are the best option."
 
-The product that will be developed, will be, in essence, an automatization of the the customer service system on a generic business of reparations. This product is expected to be implemented on the enterprise's WhatsApp
+The product that will be developed, will be, in essence, an automatization of the the customer service system on a generic business of reparations. This product is expected to be implemented on Telegram
 
 
 ## TEAM  :busts_in_silhouette:
