@@ -32,7 +32,7 @@ The joystick caps are replaced with brand new ones as shown in the image.
 **Replacement of rubber bands (buttons)**
 
 45 minutes minimum - Starting at $100
-
+ 
 This is done when the buttons feel sunken or do not react well. The old rubber is removed and the replacement is installed.
 
 ![image-20211011023653632](https://user-images.githubusercontent.com/74436161/136836958-2ebe9ba4-67f5-4ee9-b535-d086fa990030.png)
