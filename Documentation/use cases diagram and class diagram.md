@@ -15,7 +15,7 @@ Made by Ruth Castro
 | STEEP           | ACTION                                                       |
 | 0               | The system automatically registers the user in a database with his telegram id identifier and name when step 2 from UC-04 is performed |
 | 1               | The bot welcomes                                             |
-| 2               | The bot provides a menu of commands (/help and /settings).   |
+| 2               | The bot provides a menu of commands (/help and /cotizar).   |
 
 
 
