@@ -47,7 +47,6 @@ Lucidchart is a web-based diagramming tool that allows users to collaborate and 
 In this application/website we make all together in real time the different diagrams or assign the tasks that correspond to each one and so we leave to free opinion to do it at any time.
 
 
-
 ###  Version control software: Github
 
 GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features
