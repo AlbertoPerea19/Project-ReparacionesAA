@@ -34,4 +34,4 @@ Esta idea, es llevada a cabo en un negocio pequeño de reparaciones de controles
 - Talleres mecánicos grandes
 - Negocios de reparación de celulares tipo iZone.
 - Centros de reparación de equipo de cómputo
-- Trabajadores eléctricos.
+- Trabajadores eléctricos. 
