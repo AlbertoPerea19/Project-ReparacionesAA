@@ -6,17 +6,15 @@ We use the self-assessment method to assign scores to each task done by each tea
 
 | Tasks                  | Puntuation |
 | ---------------------- | ---------- |
-| Calendars              | 2          |
-| Schedule               | 4          |
-| Workprocess            | 3          |
-| Repository creation    | 3          |
-| Draft use case diagram | 1.5        |
-| Draft use cases        | 2.5        |
-| Draft requirements     | 1.5        |
-| Journals               | 2.5        |
-| Exposure               | 5          |
+| Code                   | 5          |
+| Repository             | 5          |
+| Presentation           | 5          |
+| Base Data              | 5          |
+| Heroku                 | 5        |
+| Research               | 5        |
 
-Total= 25
+
+Total= 30
 
 
 
@@ -24,14 +22,14 @@ Total= 25
 
 | Tasks                           | Puntations |
 | ------------------------------- | ---------- |
-| Draft Use Case Diagram          | 1          |
-| Class diagram and drafts        | 4          |
-| Contributions to the repository | 1          |
-| Exposure                        | 5          |
-| Requirements and drafts         | 14         |
-| Exposure                        | 5          |
+| Code                            | 5          |
+| Repository                      | 5          |
+| Presentation                    | 5          |
+| Testing                         | 5          |
+| Documentation                   | 5          |
+| Research                        | 5          |
 
-Total= 25
+Total= 30
 
 
 
@@ -39,14 +37,14 @@ Total= 25
 
 | Task                               | Puntations |
 | ---------------------------------- | ---------- |
-| Use case diagram and drafts        | 3          |
-| Definition of required information | 7          |
-| Individual contribution percentage | 3          |
-| Workprocess                        | 3          |
-| Exposure                           | 5          |
-| Use cases and drafts               | 4          |
+|  Investigation             | 5         |
+|     -          | 0          |
+|     -         | 0          |
+|     -         | 0          |
+|     -         | 0          |
+|     -         | 0          |
 
-Total= 25
+Total=5
 
 
 
@@ -54,17 +52,15 @@ Total= 25
 
 **Omar**
 
-| Task                          | Puntations |
-| ----------------------------- | ---------- |
-| Definition of objectives      | 3          |
-| Project definition            | 3          |
-| Final PowerPoint presentation | 10         |
-| Class diagram and drafts      | 4          |
-| Exposure                      | 5          |
+| Task  | Puntations |
+| ----- | ---------- |
+|  -     | 0          |
+|  -     | 0          |
+|  -     | 0          |
+|  -     | 0          |
+|  -     | 0          |
 
-Total= 25
+Total= 0
 
 
-
-FINAL TOTAL = 100 POINTS = 100%
 
