@@ -16,16 +16,19 @@ public class User {
 
     private String name;
 
-    @Column(name="phone_number")
-    private int phoneNumber;
+    @Column(name="User_id")
+    private String UserID;
 
     public User(){
     }
 
+    public User(String name){
+        this.name=name;
+    }
 
-    public User( String name, int phoneNumber) {
+    public User( String name, String UserID) {
         this.name = name;
-        this.phoneNumber = phoneNumber;
+        this.UserID = UserID;
     }
 
 
@@ -45,12 +48,20 @@ public class User {
         this.name = name;
     }
 
-    public int getphoneNumber() {
-        return this.phoneNumber;
+    public String getUserID() {
+        return this.UserID;
     }
 
-    public void setphoneNumber(int phoneNumber) {
-        this.phoneNumber = phoneNumber;
+    public void setUserID(String UserID) {
+        this.UserID = UserID;
+    }
+
+    @Override
+    public String toString() {
+        return "{" +
+            ", name='" + getname() + "'" +
+            ", UserID='" + getUserID() + "'" +
+            "}";
     }
 
 

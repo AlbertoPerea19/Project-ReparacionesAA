@@ -6,6 +6,20 @@
    "configurations": [
       {
          "type": "java",
+         "name": "Launch UserController",
+         "request": "launch",
+         "mainClass": "reparacionesaa.Controller.UserController",
+         "projectName": "ProjectAriasBot"
+      },
+      {
+         "type": "java",
+         "name": "Launch Pruebas",
+         "request": "launch",
+         "mainClass": "reparacionesaa.BotTelegram.Pruebas",
+         "projectName": "ProjectAriasBot"
+      },
+      {
+         "type": "java",
          "name": "Launch Main",
          "request": "launch",
          "mainClass": "reparacionesaa.BotTelegram.Main",

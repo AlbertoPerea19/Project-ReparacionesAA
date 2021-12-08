@@ -11,6 +11,7 @@ public class UserDao {
     
     private final EntityManager EM;
 
+    
 
     public UserDao(EntityManager EM) {
         this.EM = EM;
@@ -28,7 +29,7 @@ public class UserDao {
         }
     }
     public List<User> findAll(){
-        String queryFindAll="SELECT m FROM user m";
+        String queryFindAll="SELECT m FROM User m";
         return  EM.createQuery(queryFindAll,User.class).getResultList();
     }
 
