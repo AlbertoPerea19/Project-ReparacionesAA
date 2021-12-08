@@ -92,4 +92,4 @@ Ninguna de las anteriormente mencionadas cuenta siquiera con un sistema de respu
 Solo una página y 2 reparadores independientes manejan un sistema de "garantía":
 Colocan una pegatina encima de un tornillo, básicamente como cualquier calcomanía de sello de seguridad.
 La originalidad del proyecto radica en convertir a Reparaciones AA en la única empresa con una
-base de datos/listado de los controles reparados, además, contando con la fecha y demás indicadores importantes y un sistema automatizado para cotizar y programar nuestros servicios.
+base de datos/listado de los controles reparados, además, contando con la fecha y demás indicadores importantes y un sistema automatizado para cotizar y programar nuestros servicios.   
