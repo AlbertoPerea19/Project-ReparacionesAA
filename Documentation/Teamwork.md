@@ -146,7 +146,7 @@
 
    • What I did yesterday?
    • What do I have planned for today?
-   • Are there any obstacles?
+   • Are there any obstacles? 
 
    However, we have observed that this meeting can quickly turn into a time where employees read their agendas for the day before and the day after. The theory behind the daily meeting is that distracting conversations take place in the daily meeting, so the team can focus on work for the rest of the day. So if it turns into a read aloud of the daily schedule, don't be afraid to change it up and get creative.
 
